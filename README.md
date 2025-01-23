@@ -1,10 +1,6 @@
 # 💫 About Me:
 I am a dedicated Third-year Software Engineering undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), passionate about leveraging technology to solve real-world challenges. My academic journey has provided me with a strong foundation in programming, web development, mobile application development, DevOps principles, and software engineering methodologies.
 
-I have hands-on experience with various projects, including developing a user management system using the MERN stack, creating the "Wash and Go" vehicle wash service website, and designing a personalized fitness application with integrated task management. Additionally, I developed "Aroma," a coffee shop application using Android Studio, which features a customizable menu, event management, and personalized user experiences. 
-
-Beyond my technical expertise, I possess strong project management, teamwork, leadership, and communication skills. My collaborative experiences with academic projects have further strengthened my ability to work effectively in dynamic environments. I am fluent in both English and Sinhala.
-
 I am committed to continuous learning and professional growth. My goal is to contribute to innovative software solutions and DevOps-driven projects, ensuring efficient, reliable, and scalable systems in collaborative settings.
 
 
