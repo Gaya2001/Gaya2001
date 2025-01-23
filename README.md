@@ -3,10 +3,6 @@ I am a dedicated Third-year Software Engineering undergraduate at the Sri Lanka 
 
 I have hands-on experience with various projects, including developing a user management system using the MERN stack, creating the "Wash and Go" vehicle wash service website, and designing a personalized fitness application with integrated task management. Additionally, I developed "Aroma," a coffee shop application using Android Studio, which features a customizable menu, event management, and personalized user experiences. 
 
-My technical skills include proficiency in programming languages like Java, Python, JavaScript, PHP, and R, alongside modern web development frameworks such as ReactJS and Tailwind CSS. I am also experienced in database management systems like MySQL, MongoDB, and SQLite.
-
-As a DevOps enthusiast, I am proficient in version control systems like Git and platforms such as GitHub. I have practical knowledge of containerization tools like Docker, CI/CD pipelines using Jenkins and GitHub Actions, and cloud computing with AWS technologies. My familiarity with AWS includes services like EC2 for hosting, S3 for scalable storage
-
 Beyond my technical expertise, I possess strong project management, teamwork, leadership, and communication skills. My collaborative experiences with academic projects have further strengthened my ability to work effectively in dynamic environments. I am fluent in both English and Sinhala.
 
 I am committed to continuous learning and professional growth. My goal is to contribute to innovative software solutions and DevOps-driven projects, ensuring efficient, reliable, and scalable systems in collaborative settings.
