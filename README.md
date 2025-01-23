@@ -1,5 +1,15 @@
 # 💫 About Me:
-As a first-year first-semester Software Engineering student at SLIIT University, I am passionate about learning and applying my knowledge in the field of software development. With a strong foundation in programming concepts and an eagerness to explore emerging technologies, I am committed to honing my skills and pursuing a career in software engineering. Through coursework, projects, and extracurricular activities, I am developing my abilities in problem-solving, teamwork, and communication. I am excited to contribute my talents and ideas to the ever-evolving world of technology.
+I am a dedicated Third-year Software Engineering undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), passionate about leveraging technology to solve real-world challenges. My academic journey has provided me with a strong foundation in programming, web development, mobile application development, DevOps principles, and software engineering methodologies.
+
+I have hands-on experience with various projects, including developing a user management system using the MERN stack, creating the "Wash and Go" vehicle wash service website, and designing a personalized fitness application with integrated task management. Additionally, I developed "Aroma," a coffee shop application using Android Studio, which features a customizable menu, event management, and personalized user experiences. 
+
+My technical skills include proficiency in programming languages like Java, Python, JavaScript, PHP, and R, alongside modern web development frameworks such as ReactJS and Tailwind CSS. I am also experienced in database management systems like MySQL, MongoDB, and SQLite.
+
+As a DevOps enthusiast, I am proficient in version control systems like Git and platforms such as GitHub. I have practical knowledge of containerization tools like Docker, CI/CD pipelines using Jenkins and GitHub Actions, and cloud computing with AWS technologies. My familiarity with AWS includes services like EC2 for hosting, S3 for scalable storage
+
+Beyond my technical expertise, I possess strong project management, teamwork, leadership, and communication skills. My collaborative experiences with academic projects have further strengthened my ability to work effectively in dynamic environments. I am fluent in both English and Sinhala.
+
+I am committed to continuous learning and professional growth. My goal is to contribute to innovative software solutions and DevOps-driven projects, ensuring efficient, reliable, and scalable systems in collaborative settings.
 
 
 ## 🌐 Socials:
